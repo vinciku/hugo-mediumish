@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "http://vinciku.github.io/hugo-mediumish/"
 languageCode = "en-us"
 title = "Mediumish"
 theme = "mediumish-gohugo-theme"
